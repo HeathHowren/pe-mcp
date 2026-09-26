@@ -18,7 +18,7 @@ window. It speaks MCP over stdin and stdout, so registering it is one command
 with no ports and no token.
 
 pe-mcp is written by Heath Howren
-([Cyborg Elf](https://www.youtube.com/c/cyborgelf)) of
+([Cyborg Elf](https://www.youtube.com/cyborgelf)) of
 [Game Reversal Club](https://gamereversal.club). It is the static half of
 [Pointer Lab](https://github.com/HeathHowren/Pointer-Lab)'s MCP server: Pointer
 Lab lets an agent work on a running program, and pe-mcp lets it read the file
