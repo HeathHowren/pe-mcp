@@ -1,0 +1,1 @@
+{"dlls":[{"name":"KERNEL32.dll","count":2},{"name":"USER32.dll","count":1}],"total":3,"items":[{"dll":"KERNEL32.dll","name":"OutputDebugStringA","iat":"0x2080"},{"dll":"KERNEL32.dll","name":"GetTickCount","iat":"0x2084"},{"dll":"USER32.dll","ordinal":7,"iat":"0x20A0"}],"next":null}

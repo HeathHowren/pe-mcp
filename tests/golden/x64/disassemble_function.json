@@ -1,0 +1,1 @@
+{"function":{"begin":"0x1040","end":"0x1044"},"items":[{"rva":"0x1040","bytes":"8D0411","text":"lea eax, [rcx+rdx*1]"},{"rva":"0x1043","bytes":"C3","text":"ret"}],"next":null}

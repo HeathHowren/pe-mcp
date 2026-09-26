@@ -1,0 +1,1 @@
+{"target":"0x1040","note":"export fixture_add","total":3,"items":[{"rva":"0x1016","kind":"call","text":"call 0x140001040","function":"0x1000"},{"rva":"0x1067","kind":"jmp","text":"jmp 0x140001040","function":"0x1040"},{"rva":"0x3008","kind":"ptr","text":"dq 0x140001040"}],"next":null}

@@ -1,0 +1,1 @@
+{"dll_name":"fixture.exe","ordinal_base":1,"total":2,"items":[{"ordinal":1,"name":"fixture_add","rva":"0x1040"},{"ordinal":2,"name":"fixture_forward","forward":"KERNEL32.Sleep"}],"next":null}

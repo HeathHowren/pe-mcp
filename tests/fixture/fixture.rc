@@ -1,0 +1,2 @@
+// One resource the tests can look for.
+101 RCDATA { "pe-mcp fixture resource\0" }

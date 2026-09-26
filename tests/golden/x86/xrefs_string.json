@@ -1,0 +1,1 @@
+{"target":"0x2000","note":"\"Hello from the pe-mcp fixture\"","total":2,"items":[{"rva":"0x1003","kind":"abs","text":"push 0x402000"},{"rva":"0x1060","kind":"abs","text":"mov eax, 0x402000"}],"next":null}

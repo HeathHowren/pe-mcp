@@ -1,0 +1,1 @@
+{"target":"0x2000","note":"\"Hello from the pe-mcp fixture\"","total":2,"items":[{"rva":"0x1004","kind":"rip","text":"lea rcx, [0x140002000]","function":"0x1000"},{"rva":"0x1060","kind":"rip","text":"lea rax, [0x140002000]","function":"0x1040"}],"next":null}

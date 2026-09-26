@@ -1,0 +1,1 @@
+{"target":"0x2080","note":"KERNEL32.dll!OutputDebugStringA","total":1,"items":[{"rva":"0x100B","kind":"rip","text":"call [0x140002080]","function":"0x1000"}],"next":null}
