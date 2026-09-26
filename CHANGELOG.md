@@ -40,3 +40,5 @@ The first release.
   byte by byte, paging and size caps, truncation and random mutation of the
   headers, the JSON-RPC layer, and an end-to-end run of `pe-mcp.exe` over
   pipes against a compiled fixture program.
+
+[1.0.0]: https://github.com/HeathHowren/pe-mcp/releases/tag/v1.0.0
