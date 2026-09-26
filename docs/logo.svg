@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#0f2235"/>
+  <rect width="64" height="4" fill="#c0392b"/>
+  <!-- A file on disk with its folded corner, and rows of bytes inside it.
+       An orange lens reads it: static analysis, no process involved. -->
+  <path d="M13 12 h19 l8 8 v31 h-27 z" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M32 12 v8 h8" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M18 26 h12 M18 32 h8 M18 38 h10 M18 44 h6" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="41" cy="39" r="8" fill="#0f2235" stroke="#e67e22" stroke-width="3.5"/>
+  <path d="M47 45 l7 7" fill="none" stroke="#e67e22" stroke-width="4.5" stroke-linecap="round"/>
+</svg>
